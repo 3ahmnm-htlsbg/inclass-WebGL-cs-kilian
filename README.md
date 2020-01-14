@@ -1,4 +1,4 @@
-# inclass-WebGL-cs-kilian
+# home-WebGL-movingBall-cs-kilian
 
 ### Project description: 
 This Project was intendet as an Unity Github and C# Exercise.
@@ -26,7 +26,7 @@ WebGL
 
 ### Visuals: 
 <div>
-<img src = "./Screenshots/home-WebGL-movingBall-cs-kilian-screenshot.jpg" width = "500">
+<img src = "./screenshots/home-WebGL-movingBall-cs-kilian-screenshot.jpg" width = "500">
 </div>
 
 ### Necessary setup/execution steps: 
