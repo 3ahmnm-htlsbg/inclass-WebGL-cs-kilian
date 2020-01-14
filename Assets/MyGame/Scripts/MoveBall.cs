@@ -6,7 +6,7 @@ using UnityEngine;
 public class MoveBall : MonoBehaviour
 {
     [SerializeField] private GameObject[] BallPos;
-    public GameObject Ball;
+    [SerializeField] private GameObject Ball;
     public int lastNumber;
     public int RandomNumber;
 
