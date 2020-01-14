@@ -1,4 +1,4 @@
-# home-WebGL-movingBall-cs-kilian
+# inclass-WebGL-cs-kilian
 
 ### Project description: 
 This Project was intendet as an Unity Github and C# Exercise.
@@ -26,7 +26,7 @@ WebGL
 
 ### Visuals: 
 <div>
-<img src = "./screenshots/home-WebGL-movingBall-cs-kilian-screenshot.jpg" width = "500">
+<img src = "./Screenshots/home-WebGL-movingBall-cs-kilian-screenshot.jpg" width = "500">
 </div>
 
 ### Necessary setup/execution steps: 
@@ -34,7 +34,9 @@ WebGL needs to be installed.
 
 ### Third party material: 
 Github Template: 3ahmnm-htlsbg/Unity2019114f1-2D-Template\
-Original Readme: https://github.com/3ahmnm-htlsbg/home-WebGl-cs-smeerws/blob/master/README.md
+Original Readme: https://github.com/3ahmnm-htlsbg/home-WebGl-cs-smeerws/blob/master/README.md\
+Project copied from: https://github.com/3ahmnm-htlsbg/home-WebGL-movingBall-cs-kilian
+Because no need for a revision.
 
 ### Project state: 
 incl. progress in percent 
