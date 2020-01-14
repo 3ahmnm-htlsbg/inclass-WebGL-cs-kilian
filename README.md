@@ -26,7 +26,7 @@ WebGL
 
 ### Visuals: 
 <div>
-<img src = "./Screenshots/creenshots/home-WebGL-movingBall-cs-kilian-screenshot.jpg" width = "500">
+<img src = "./Screenshots/home-WebGL-movingBall-cs-kilian-screenshot.jpg" width = "500">
 </div>
 
 ### Necessary setup/execution steps: 
