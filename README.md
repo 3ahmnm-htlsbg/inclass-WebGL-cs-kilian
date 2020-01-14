@@ -33,8 +33,8 @@ WebGL
 WebGL needs to be installed. 
 
 ### Third party material: 
-Github Template: 3ahmnm-htlsbg/Unity2019114f1-2D-Template 
-Original Reamde: https://github.com/3ahmnm-htlsbg/home-WebGl-cs-smeerws/blob/master/README.md
+Github Template: 3ahmnm-htlsbg/Unity2019114f1-2D-Template\
+Original Readme: https://github.com/3ahmnm-htlsbg/home-WebGl-cs-smeerws/blob/master/README.md
 
 ### Project state: 
 incl. progress in percent 
